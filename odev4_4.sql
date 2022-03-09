@@ -1,0 +1,1 @@
+SELECT COUNT(country) from country WHERE LENGTH(country)>4
